@@ -37,6 +37,3 @@ Setup
 
     ``python setup.py install``
 
-2. Easy install way (using egg)
-
-    ``easy_install VPNaaS-0.1-py2.7.egg``
