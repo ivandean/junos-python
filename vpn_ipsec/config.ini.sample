@@ -1,0 +1,8 @@
+[NETCONF_JUNOS]
+server_host = hostname
+server_port = 12345
+server_user = user
+server_password = password
+
+[IKE_JUNOS]
+presharedkey = abcdefghijklmnopqrstuvwxyz
